@@ -1,0 +1,40 @@
+body{
+	font-family: 'Raleway', sans-serif;
+}
+
+h1{
+	font-size: x-large;
+}
+
+h2{
+	font-size: small;
+}
+h3{
+	font-size: x-small;
+}
+
+a{
+	text-decoration: none;
+}
+
+#log{
+	border: 2px solid;
+	border-radius: 5px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-right: 25px;
+	padding-left: 25px;
+}
+
+.centerBlock{
+	position: absolute;
+	top: 50%; 
+	left: 50%;
+	transform: translate(-50%, -50%);	
+}
+
+.centerText{
+	text-align: center;
+}
+
+
